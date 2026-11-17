@@ -141,3 +141,8 @@ This repository starts independently of the Hiwonder checkout. Reuse only the ha
 ## First milestone
 
 Identify the exact brewer and arm hardware, prove cool-machine mechanical feasibility, mount the camera, and collect an initial labeled recording. The first vision demo should locate a fresh pod and predict its pickup position; brewing comes after reliable individual skills and verified dry runs.
+
+## Leader and follower calibration
+
+See [calibration setup](docs/calibration.md) for installation and commands to calibrate each Hiwonder SO-101 arm using calibrate.py.
+
