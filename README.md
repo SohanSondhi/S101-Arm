@@ -146,3 +146,8 @@ Identify the exact brewer and arm hardware, prove cool-machine mechanical feasib
 
 See [calibration setup](docs/calibration.md) for installation and commands to calibrate each Hiwonder SO-101 arm using calibrate.py.
 
+
+## Pod picking scaffold
+
+See [pod picking](docs/pod-picking.md) for the Python state machine, simulation scenarios, adapter contracts, and tests. This scaffold implements pod pick/place orchestration; camera localization and physical motion adapters remain to be connected.
+
